@@ -184,12 +184,6 @@ GitHub Actions 已配置为 `main` 分支自动执行测试流程。
 - `说明.ipynb`、`说明.txt` 为课程教师提供说明材料。
 - 本仓库中的工程化实现、可视化脚本、结果文档与报告文件为作者个人完成内容。
 
-## 发布建议
-
-- 建议不上传 `data/MNIST/raw/` 原始数据（体积大、可公开下载）
-- 推荐仓库标签：`mnist`、`pytorch`、`cnn`、`machine-learning`
-- 推荐发布首个版本：`v1.0.0`
-
 ## 致谢
 
 - MNIST dataset: Yann LeCun et al.
