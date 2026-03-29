@@ -1,0 +1,6 @@
+# Main Experiment Metrics
+accuracy=0.9892
+f1_macro=0.9891
+epochs=5
+batch_size=64
+learning_rate=0.001
